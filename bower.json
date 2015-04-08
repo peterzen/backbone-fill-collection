@@ -1,0 +1,26 @@
+{
+  "name": "backbone-fill-collection",
+  "version": "0.1.0",
+  "homepage": "https://github.com/AdamBrodzinski/backbone-fill-collection",
+  "authors": [
+    "AdamBrodzinski"
+  ],
+  "description": "ManageBackbone-Fill-Collection makes it easy to generate collections with mock data quickly for prototyping. It sends requests to filltext.com and inserts the results into a backbone collection on every fetch.",
+  "main": "backbone-fill-collection.js",
+  "keywords": [
+    "backbone",
+	"filltext",
+	"collection"
+  ],
+  "dependencies": {
+    "backbone": ">=0.9.9 <=1.1.2"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
